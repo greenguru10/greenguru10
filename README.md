@@ -65,6 +65,7 @@ A fully functional e-commerce platform dedicated to promoting eco-friendly produ
 </table>
 
 🏆 Hackathons & Achievements
+
 🥈 2nd Prize Winner – EXALT Technical Event, APSIT
 
 Hackscript 6.0 (Selected for 2 Rounds):
@@ -99,6 +100,7 @@ Hackwave (College Hackathon): Developed a 2-step authentication system.
 </p>
 
 📜 Certifications
+
 Full Stack Web Development – Udemy
 
 Java Full Stack Development – Eduskills
