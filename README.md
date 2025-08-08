@@ -1,8 +1,10 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 <h1>👋 Hey there, I'm Vedant Mallya!</h1>
 <p>
 <a href="https://www.linkedin.com/in/vedant-mallya-134113300"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 </div>
 
 I'm an aspiring Software Engineer, Web Developer, and Data Scientist currently pursuing a Bachelor of Engineering in Computer Engineering. My passion lies in building scalable web applications, robust automation systems, and innovative AI-driven solutions. I thrive on tackling complex problems and am always looking for opportunities to contribute to impactful technology.
